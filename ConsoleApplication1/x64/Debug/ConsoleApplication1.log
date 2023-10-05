@@ -1,3 +1,8 @@
 ﻿  main.cpp
-C:\Users\Computing\Desktop\Cpp_Workshop\ConsoleApplication1\main.cpp(36,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Computing\Desktop\Cpp_Workshop\ConsoleApplication1\main.cpp(35,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Computing\Desktop\Cpp_Workshop\ConsoleApplication1\main.cpp(38,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Computing\Desktop\Cpp_Workshop\ConsoleApplication1\main.cpp(40,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Computing\Desktop\Cpp_Workshop\ConsoleApplication1\main.cpp(43,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Computing\Desktop\Cpp_Workshop\ConsoleApplication1\main.cpp(45,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Computing\Desktop\Cpp_Workshop\ConsoleApplication1\main.cpp(54,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
   ConsoleApplication1.vcxproj -> C:\Users\Computing\Desktop\Cpp_Workshop\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
