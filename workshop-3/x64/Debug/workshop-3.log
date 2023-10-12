@@ -1,0 +1,11 @@
+﻿  workshop-3.cpp
+C:\Users\Computing\Desktop\Cpp_Workshop\workshop-3\workshop-3.cpp(29,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Computing\Desktop\Cpp_Workshop\workshop-3\workshop-3.cpp(30,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Computing\Desktop\Cpp_Workshop\workshop-3\workshop-3.cpp(31,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Computing\Desktop\Cpp_Workshop\workshop-3\workshop-3.cpp(38,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Computing\Desktop\Cpp_Workshop\workshop-3\workshop-3.cpp(47,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Computing\Desktop\Cpp_Workshop\workshop-3\workshop-3.cpp(49,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Computing\Desktop\Cpp_Workshop\workshop-3\workshop-3.cpp(52,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Computing\Desktop\Cpp_Workshop\workshop-3\workshop-3.cpp(54,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Computing\Desktop\Cpp_Workshop\workshop-3\workshop-3.cpp(57,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  workshop-3.vcxproj -> C:\Users\Computing\Desktop\Cpp_Workshop\workshop-3\x64\Debug\workshop-3.exe
