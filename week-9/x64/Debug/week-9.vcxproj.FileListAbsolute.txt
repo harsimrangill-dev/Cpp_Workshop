@@ -1,1 +1,2 @@
 C:\Users\Computing\source\repos\week-9\x64\Debug\week-9.exe
+C:\Users\Computing\Desktop\Cpp_Workshop\week-9\x64\Debug\week-9.exe

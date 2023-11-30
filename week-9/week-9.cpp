@@ -7,7 +7,7 @@
 #include"Sheep.h"
 #include<vector>
 
-int main()
+/*int main()
 {
     Animal* con;
     int num = 0;
@@ -44,6 +44,6 @@ int main()
 
     return 0;
     
-}
+}*/
 
 
