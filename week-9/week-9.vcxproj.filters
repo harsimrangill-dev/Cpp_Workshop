@@ -33,6 +33,12 @@
     <ClCompile Include="main-week-10.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="pointerWrapper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="week-10-main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Animal.h">
@@ -48,6 +54,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="matrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pointerWrapper.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

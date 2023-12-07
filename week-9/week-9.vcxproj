@@ -131,7 +131,9 @@
     <ClCompile Include="Cow.cpp" />
     <ClCompile Include="Frisian.cpp" />
     <ClCompile Include="main-week-10.cpp" />
+    <ClCompile Include="pointerWrapper.cpp" />
     <ClCompile Include="Sheep.cpp" />
+    <ClCompile Include="week-10-main.cpp" />
     <ClCompile Include="week-9.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -139,6 +141,7 @@
     <ClInclude Include="Cow.h" />
     <ClInclude Include="Frisian.h" />
     <ClInclude Include="matrix.h" />
+    <ClInclude Include="pointerWrapper.h" />
     <ClInclude Include="Sheep.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

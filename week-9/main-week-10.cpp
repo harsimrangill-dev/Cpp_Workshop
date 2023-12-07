@@ -20,7 +20,7 @@ int cmp(T a, T b);
 
 //implemetation
 
-int main()
+/*int main()
 {
 	int x = 10;
 	int y = 20;
@@ -66,4 +66,4 @@ int cmp(char a[], char b[]) {
 	cout << "Char strcmp is called" << endl;
 	return strcmp(b, a);
 
-}
+}*/
